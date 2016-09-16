@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyStripe</string>
+
+
+    <string-array name="currency_array">
+        <item>Currency (optional)</item>
+        <item>Unspecified</item>
+        <item>USD</item>
+    </string-array>
+</resources>
